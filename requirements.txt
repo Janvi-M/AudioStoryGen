@@ -1,0 +1,13 @@
+streamlit
+numpy
+librosa
+soundfile
+pydub
+nltk
+TTS
+google-generativeai
+transformers
+torch
+laion-clap
+python-dotenv
+scipy
